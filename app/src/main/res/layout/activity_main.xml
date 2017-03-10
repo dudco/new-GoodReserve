@@ -1,18 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context="com.example.dudco.goodreserve.MainActivity">
+<layout>
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.example.dudco.goodreserve.LoginActivity"
+        android:background="@drawable/bg_login">
+        <LinearLayout
+            android:id="@+id/login_container"
+            android:layout_width="match_parent"
+            android:layout_height="230dp"
+            android:orientation="vertical"
+            android:layout_alignParentBottom="true"
+            android:padding="20dp">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/title_login"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1.5dp"
+                android:background="#a3a3a3"
+                android:layout_marginBottom="20dp"
+                android:layout_marginTop="10dp"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <!-- facebook btn -->
+                <RelativeLayout
+                    android:id="@+id/main_btn_facebook"
+                    android:layout_width="180dp"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/shape_btn_facebook">
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:gravity="center">
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/ic_btn_login_facebook"
+                            android:layout_marginRight="10dp"/>
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Facebook"
+                            android:textColor="#ffffff"
+                            android:textSize="18sp"/>
+                    </LinearLayout>
+                </RelativeLayout>
 
-</android.support.constraint.ConstraintLayout>
+                <android.support.v4.widget.Space
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"/>
+
+                <!-- login btn -->
+                <Button
+                    android:id="@+id/main_btn_login"
+                    android:layout_width="180dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/shape_btn_login"
+                    android:text="로그인"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="18sp"/>
+            </LinearLayout>
+            <Button
+                android:id="@+id/main_btn_reg"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/shape_btn_reg"
+                android:layout_marginTop="10dp"
+                android:text="회원가입"
+                android:textColor="#ffffff"
+                android:textStyle="bold"
+                android:textSize="20sp"/>
+        </LinearLayout>
+    </RelativeLayout>
+</layout>
