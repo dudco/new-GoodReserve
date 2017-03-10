@@ -2099,12 +2099,12 @@
         <option value="$PROJECT_DIR$/app/src/main/res/drawable/shape_top_content_indigater.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/drawable/shape_top_content_indigater_off.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/dudco/goodreserve/TopContentData.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/dudco/goodreserve/MyFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/dudco/goodreserve/TopPagerAdapter.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/item_top_content.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/dudco/goodreserve/RealMainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_real_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/dudco/goodreserve/MyFragment.java" />
       </list>
     </option>
   </component>
@@ -2627,10 +2627,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
