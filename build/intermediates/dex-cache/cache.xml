@@ -3,183 +3,183 @@
 
     <item
         is-multidex="true"
-        jar="/Users/dudco/.android/build-cache/3fd7d3e2e1ca90573eca1065676395000c885bb3/output/jars/classes.jar"
+        jar="C:\Users\Sunrin\.android\build-cache\374a1fcb698e46a855f9b97b9de2c81d12fa4fa6\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
-        <dex dex="/Users/dudco/AndroidStudioProjects/GoodReserve/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be789f10ce58b6eca587cc3cf8dfbc6f9a1ba83e/classes.dex" />
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="C:\Users\Sunrin\AndroidStudioProjects\GoodReserve\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_178b2be19b43d6011956aed2e10924424ba99963\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/dudco/.android/build-cache/71a7eecf27ad4b726ec7fad4d5bfb082c51fd01b/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
-        <dex dex="/Users/dudco/AndroidStudioProjects/GoodReserve/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_adb9c051ddb8d84a8b9771670b984e2bf68c40e6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/dudco/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.1/constraint-layout-solver-1.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1ad79631209e77b0a2730fc112b4cc0c66a95132">
-        <dex dex="/Users/dudco/AndroidStudioProjects/GoodReserve/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.1_59fe2df83bf2a41b226a1dc305dcfbba3f9c8b6e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/dudco/.android/build-cache/988ec6f70e2ede3d92d15bdf4758eed97f1f2584/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
-        <dex dex="/Users/dudco/AndroidStudioProjects/GoodReserve/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_423a46f0d5be1c312954c8742266d7f5479bd7cf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/dudco/.android/build-cache/28faf9d42d257d26ef027445dba2e5b513a2d602/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
-        <dex dex="/Users/dudco/AndroidStudioProjects/GoodReserve/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3b1ef6bc55f16b3f036b0566dff964e51ea68f23/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/dudco/.android/build-cache/30dadb8a24d33330730d05121d7b1de21f113a4b/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7113302c965566b66df46c6ca75ea301576114a5">
-        <dex dex="/Users/dudco/AndroidStudioProjects/GoodReserve/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3f7d8890938efea361a434d2fc6959a8714be5c5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/dudco/.android/build-cache/bf658df1ed9d9eec311a5c9a221fc51d4d2975ab/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
-        <dex dex="/Users/dudco/AndroidStudioProjects/GoodReserve/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7fd8d981032130ab314be09137e21319b5990b47/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/dudco/.android/build-cache/40125476dc4d613bb27d0fa4617d5b97cadf0003/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
-        <dex dex="/Users/dudco/AndroidStudioProjects/GoodReserve/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aa546add642a81a61da518a96e3f51d7e57f0c18/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/dudco/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
-        <dex dex="/Users/dudco/AndroidStudioProjects/GoodReserve/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_d8ad43835ce3ff10af971271a006c58e7fbcf719/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/dudco/.android/build-cache/8ef3587ad8c027e337e79d1266155c3f75d246b0/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
-        <dex dex="/Users/dudco/AndroidStudioProjects/GoodReserve/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_814c6f38a106d072476d0a7caf179d34b03c1f54/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/dudco/.android/build-cache/df2514971b20892bac5cc60926c6d205eca35e29/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
-        <dex dex="/Users/dudco/AndroidStudioProjects/GoodReserve/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9a2298012a0c8f28c12837d4fea279dd8067c369/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/dudco/.android/build-cache/72276fd810a5de7744dc6b81eb4377ec726192fb/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
-        <dex dex="/Users/dudco/AndroidStudioProjects/GoodReserve/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2c560dbd7d1380536b9b9546a4f289d52dd91f76/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/dudco/AndroidStudioProjects/GoodReserve/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="/Users/dudco/AndroidStudioProjects/GoodReserve/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_aca64d991010092e92473481a5f212edbdb78ecd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/dudco/.android/build-cache/72d98cfd2a9282a619dfac45f9ed906eb8b5b3fe/output/jars/classes.jar"
+        jar="C:\Users\Sunrin\.android\build-cache\5aee6e5032fb138d183a48bfa34f5d74742cff6a\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/dudco/AndroidStudioProjects/GoodReserve/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b7a8184064644ccdbc1c8d2ecd09f04fbefd7ed/classes.dex" />
+        <dex dex="C:\Users\Sunrin\AndroidStudioProjects\GoodReserve\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_db09d74ac36710d38d4ab44a96ac9c3699b9bd22\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/android/databinding/baseLibrary/2.3.0/baseLibrary-2.3.0.jar"
+        jar="C:\Users\Sunrin\.android\build-cache\47b3ec41e43bc36d20f4862a0a2aa23874bd6d22\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="cf0b6ab1d94f770655f81657b93fce2ba4cd331d">
-        <dex dex="/Users/dudco/AndroidStudioProjects/GoodReserve/app/build/intermediates/transforms/dex/debug/folders/1000/10/baseLibrary-2.3.0_3d8a92b3f03695a50c7548f68422f80006780753/classes.dex" />
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\Sunrin\AndroidStudioProjects\GoodReserve\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_536377d7826816557db22a3a4aae02ab78266e0f\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/dudco/.android/build-cache/9b1bef31764e87ab72314daa8e3a0b1fe6739de9/output/jars/classes.jar"
+        jar="C:\Users\Sunrin\.android\build-cache\3b2274e7319001ea7c644edba6120831fc981e62\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\Sunrin\AndroidStudioProjects\GoodReserve\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d5fff985ae6129755b9d443aaf7111487f3db4d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sunrin\.android\build-cache\8d927177ccfa7f2c84977a61bae31e2d8a84ccb0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\Sunrin\AndroidStudioProjects\GoodReserve\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_491cb326af9ad93f43e1419cb3fb50a29b0296f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sunrin\AndroidStudioProjects\GoodReserve\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Sunrin\AndroidStudioProjects\GoodReserve\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4e298cbbed831c5d2c86d597706a63af6c731346\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sunrin\.android\build-cache\cfabae2a181fca5cbfb6103d059716a2639e5a69\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7113302c965566b66df46c6ca75ea301576114a5">
+        <dex dex="C:\Users\Sunrin\AndroidStudioProjects\GoodReserve\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5dc4b117835e13ec580bd77846695757db03f632\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sunrin\.android\build-cache\b5af26ba804d257acb11ef6f7bfb4cfd8dca509a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\Sunrin\AndroidStudioProjects\GoodReserve\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bfa48cdfdbc46de652bcc7e3c2b07141403001ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sunrin\.android\build-cache\d3a7935493235c69ad8115f1b07fbf2722170e6d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\Sunrin\AndroidStudioProjects\GoodReserve\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f6f822cb2c1165aee5ba43100b2f584556d5fab7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sunrin\AndroidStudioProjects\GoodReserve\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="66eebbd6f8335f74ca287fb0ca699be6518496c3">
+        <dex dex="C:\Users\Sunrin\AndroidStudioProjects\GoodReserve\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_68ef66f591ba57ef5f55daebb00754adc6eb7b31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sunrin\.android\build-cache\2ca5c46ac5b4efd9da1ca76789e68f0dbda44a69\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\Sunrin\AndroidStudioProjects\GoodReserve\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8922c2d2f21faf9b37c94e12264826b6216fac42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sunrin\.android\build-cache\81d7d96aef4bd1e59ebdd1ca30aca12465e647dd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="C:\Users\Sunrin\AndroidStudioProjects\GoodReserve\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7b6667d0be12b281995a0a0443ca987015a0b5f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sunrin\.android\build-cache\ecd986dffe299c90727ecf15d9e3f3a1695cc03c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\Sunrin\AndroidStudioProjects\GoodReserve\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5d3bf0ad659636725c2002e74896cf58d7def6c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sunrin\.android\build-cache\49250feda7024aacc4217af58c4d2af5318af68b\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
-        <dex dex="/Users/dudco/AndroidStudioProjects/GoodReserve/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_19d7471d028f4525b45d9d13fc4a880f3568ee48/classes.dex" />
+        <dex dex="C:\Users\Sunrin\AndroidStudioProjects\GoodReserve\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a685557541194a82dcad2a7e4d6c05a8f6b92314\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/dudco/.android/build-cache/72f6ac56f96fee1d22551ac4250f89850ab37214/output/jars/classes.jar"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\android\databinding\baseLibrary\2.3.0\baseLibrary-2.3.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
-        <dex dex="/Users/dudco/AndroidStudioProjects/GoodReserve/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b04b3c51607d217e5f571e7edb5fa0a4b79c44ce/classes.dex" />
+        sha1="cf0b6ab1d94f770655f81657b93fce2ba4cd331d">
+        <dex dex="C:\Users\Sunrin\AndroidStudioProjects\GoodReserve\app\build\intermediates\transforms\dex\debug\folders\1000\10\baseLibrary-2.3.0_8bc1fbcf84609ef9b8063719782059b0471af2cd\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/dudco/AndroidStudioProjects/GoodReserve/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d27bcb3f9c98996d00719b6425c2752bb50d5173">
-        <dex dex="/Users/dudco/AndroidStudioProjects/GoodReserve/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b9cef1ada3e2546dca2f6c4c50a7092b727c7816/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/dudco/.android/build-cache/6ecbc6eda6a146e4ecbf996b3a11ed7d06a7c695/output/jars/classes.jar"
+        jar="C:\Users\Sunrin\.android\build-cache\def4e4f9c455c27f5903ef33fd8e82187a58ab22\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
-        <dex dex="/Users/dudco/AndroidStudioProjects/GoodReserve/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6bb8619343ec7fbcab0e32a5bfb3460c2576b8cd/classes.dex" />
+        <dex dex="C:\Users\Sunrin\AndroidStudioProjects\GoodReserve\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_72e3a4da32ef17e8c2fce9c0492166c129c83d57\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/dudco/.android/build-cache/0f7cf382280f82e68e22cefc4336fa5772745f71/output/jars/classes.jar"
+        jar="C:\Users\Sunrin\.android\build-cache\8f91ad815c8b5d5a1fff6ad874630bd2359d4d68\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\Sunrin\AndroidStudioProjects\GoodReserve\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_033705c8cffe083b930bf08f603db3ee4c25a9d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sunrin\.android\build-cache\bd6e15ab45911a7f0db12d4314e83c88c6c13913\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
-        <dex dex="/Users/dudco/AndroidStudioProjects/GoodReserve/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_665f578f2dd0e3df07e8dd9f388a27d46e93282c/classes.dex" />
+        <dex dex="C:\Users\Sunrin\AndroidStudioProjects\GoodReserve\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_895c31d4c87040b53e7fc34e7d47d3b89658bc0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sunrin\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.1\constraint-layout-solver-1.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ad79631209e77b0a2730fc112b4cc0c66a95132">
+        <dex dex="C:\Users\Sunrin\AndroidStudioProjects\GoodReserve\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.1_6a76dc925346df2a56e6af1051cd03b5c3771b13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sunrin\.android\build-cache\48f452f4cb1ad5333ecc6f96c334433420b0bbf6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
+        <dex dex="C:\Users\Sunrin\AndroidStudioProjects\GoodReserve\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_35637c6b30a78743a9ccc7bf43d7c8cb531d2b75\classes.dex" />
     </item>
 
 </items>
