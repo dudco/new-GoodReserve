@@ -3,9 +3,11 @@ package com.example.dudco.goodreserve;
 import android.databinding.DataBindingUtil;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
+import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.view.LayoutInflater;
 import android.view.View;
+import android.view.ViewGroup;
 import android.widget.Toast;
 
 import com.example.dudco.goodreserve.databinding.ActivityRealMainBinding;
@@ -27,10 +29,11 @@ public class RealMainActivity extends AppCompatActivity {
         actionBarView.findViewById(R.id.action_bar_mypg).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(RealMainActivity.this, "마이페이지 준비중...",  Toast.LENGTH_SHORT);
+                Toast.makeText(RealMainActivity.this, "마이페이지 준비중...",  Toast.LENGTH_SHORT).show();
             }
         });
-        getSupportActionBar().setCustomView(actionBarView);
+        getSupportActionBar().setCustomView(actionBarView, new ActionBar.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT));
+        getSupportActionBar().setDisplayShowCustomEnabled(true);
 
         items.add(new MyFragment(1));
         items.add(new MyFragment(2));
